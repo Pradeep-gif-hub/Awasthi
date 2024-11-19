@@ -1,94 +1,27 @@
-# Welcome to My GitHub Profile 👋
+# 💫 About Me:
+I am currently pursuing my B.tech at NITJ in ICE<br>I am looking to collaborate on software testing.<br>I am looking for help with developing a chrome extension that can find me better<br>Ask me about automation Testing<br>Fun Fact I am lazy but perhaps Smart.....
 
-Hi there! I'm a **Bachelor's student** specializing in **ICE Robotics**. I have a strong foundation in programming and enjoy exploring hardware and software integration. Currently, I'm diving deep into **Arduino** and other embedded systems projects.
 
-### Skills & Technologies 💻
-- **Programming Languages**:  
-  - Python 🐍  
-  - C Programming 💻  
-  - SQL (MySQL) 🗄️
-  
-- **Technologies & Tools**:  
-  - Arduino 🛠️  
-  - Embedded Systems  
-  - Git & GitHub 🧑‍💻  
-  - Microcontrollers & Sensors
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pawasthi063) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.awasthi_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pradeep Kumar Awasthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pawsthi063) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cricpradedit) 
 
-- **Database Management**:  
-  - MySQL 🌐
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pradeep-gif-hub&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-gif-hub&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-gif-hub&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Current Projects 🚀
-- **Arduino-based Robotics**:  
-  - Designing robotic systems using Arduino boards and various sensors.
-  - Working on automating basic tasks using servo motors and sensors.
-  
-- **Python & MySQL**:  
-  - Developing backend applications to interface with MySQL databases.
-  - Building data-driven applications with Python and MySQL.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pradeep-gif-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### About Me 🌟
-I'm passionate about creating innovative solutions with robotics and electronics. My interest lies in combining **software** and **hardware** to build intelligent systems. I enjoy learning new things, working on personal projects, and contributing to open-source communities.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pradeep-gif-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Pradeep-gif-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## 📌 Projects
-
-Here are a few of my favorite projects:
-
-1. [**Arduino Robotics Project**](https://github.com/your-github-username/arduino-robotics)  
-   A robotic arm controlled via Arduino and sensors.
-
-2. [**Python MySQL Database Integration**](https://github.com/your-github-username/python-mysql-integration)  
-   A simple Python script that interacts with a MySQL database.
-
-3. [**IoT Smart Home System**](https://github.com/your-github-username/iot-smart-home)  
-   A smart home automation project using sensors and controllers.
-
-### Tools & Setup ⚙️
-
-I use the following setup for my work:
-- **IDE/Editor**:  
-  - Visual Studio Code (VSCode) 🖥️  
-  - Arduino IDE for embedded development
-
-- **Version Control**:  
-  - Git & GitHub 🧑‍💻
-
-- **Operating System**:  
-  - Windows 10/Ubuntu Linux 💻
-
----
-
-## 📫 Let's Connect!
-
-You can reach me through the following platforms:
-
-- **LinkedIn**: [Pradeep Kumar Awasthi](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email**: [pawasthi063@gmail.com](mailto:your-email@example.com)
-
----
-
-### 🖼️ My Work in Action!
-
-![Arduino Setup](https://via.placeholder.com/800x400.png?text=Arduino+Robotics+Project+in+Action)  
-*Image of a simple Arduino project.*
-
-![Python MySQL Demo](https://via.placeholder.com/800x400.png?text=Python+MySQL+Database+Integration)  
-*Demo of Python interacting with MySQL.*
-
----
-
-## 📚 Learning & Goals
-
-- Exploring AI and Machine Learning applications in Robotics 🤖
-- Building more complex robotic systems and automation solutions
-- Deepening my understanding of **embedded systems** and **IoT**
-
----
-
-**Thanks for visiting my profile!** 🚀  
-Feel free to explore my repositories and connect with me on LinkedIn.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
